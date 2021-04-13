@@ -1,0 +1,8 @@
+# class paths
+-cp src
+
+# libraries
+-lib heaps
+
+# entry point
+-main Main
