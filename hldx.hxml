@@ -1,4 +1,4 @@
 base.hxml
--lib hlsdl
+-lib hldx
 -hl bin/game.hl
 -debug
